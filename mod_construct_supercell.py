@@ -8,7 +8,7 @@ def reshape_crystal(crystal, water_in_crystal, shape):
 	water_in_crystal_rs = [[[0 for k in range(shape[2])] for j in range(shape[1])] for i in range(shape[0])]
 	#random
 	paired_list = list(zip(crystal, water_in_crystal))
-	#np.random.shuffle(paired_list)
+	np.random.shuffle(paired_list)
 	crystal_shuffled, water_in_crystal_shuffled = zip(*paired_list)
 
 	ind = 0
