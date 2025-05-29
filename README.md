@@ -1,6 +1,6 @@
 # CASHgen
 
-**CASHgen** is  an improved Python code for the automated generation of CASH structures, based on the pyCSH code proposed by Z. Casar et al. [1]. 
+**CASHgen** is  an improved Python code for the automated generation of C-A-S-H structures, based on the pyCSH code proposed by Z. Casar et al. [1]. 
 It is built upon the brick model introduced by Kunhi Mohamed et al. [2] and further expanded by X. Zhu et al. [3].
 
 [1] Z. Casar, J. López-Zorrilla, H. Manzano, E. Duque-Redondo, A.K. Mohamed, K. Scrivener, P. Bowen, pyCSH: Automated atomic-level structure generation of bulk C-S-H and investigation of their intrinsic properties, Cement and Concrete Research, 183 (2024) 107593.
