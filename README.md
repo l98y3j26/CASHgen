@@ -31,7 +31,7 @@ On Windows systems, using debugging software may make the process more convenien
 
 The program typically takes approximately 40 seconds to generate a supercell composed of 32 unit cells, depending on the system's atomic complexity and randomness.
 
-The parameters that control the generated CSH models are defined in `parameters.py`, and are the following:
+The parameters that control the generated C-A-S-H models are defined in `parameters.py`, and are the following:
 
  - `seed`: **Optional**. Default : 1123
    Seed for the random number generator.
